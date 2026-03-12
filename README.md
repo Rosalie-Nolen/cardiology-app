@@ -1,7 +1,7 @@
 # Heads Up for Cardiology
 
-A fast-paced group flashcard game designed for medical students and cardiology 
-residents to reinforce clinical knowledge in an engaging and interactive way.
+Heads Up for Cardiology is an engaging group game designed 
+to reinforce clinical knowledge in medical students and residents. 
 
 ## About
 
